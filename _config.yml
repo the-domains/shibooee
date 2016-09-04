@@ -1,20 +1,4 @@
-name: shibooee
-favicon: null
-layout_spectrum: 0.3706819568760693
 typography_spectrum: 0.5123381458688527
-title: Shibooee
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e6dedb'
@@ -26,4 +10,21 @@ color:
   lightness: 0.17309432732872665
   saturation: 0.7492680959403515
   rhythmicContrast: 0.342042182572186
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3706819568760693
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: null
+name: shibooee
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: a curated life
 purpose: []
